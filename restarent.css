@@ -1,0 +1,259 @@
+.top-header
+{
+    height:600px; 
+    
+}
+.img
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\pexels-photo-1603899.jpeg');
+    background-repeat: no-repeat;
+    height:600px;
+    background-size: cover;
+}
+.border
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.table
+{
+    
+    position: relative;
+    top:70%;
+    left:80%;
+    height:45px;
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 10px;
+}
+.space
+{
+    padding:18px;
+}
+.description
+{
+    position:relative;
+    top:100px;
+    left:60px;
+    color:white;
+    
+}
+.description h1
+{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    color:cornflowerblue;
+}
+.items
+{
+    margin:10px;
+}
+.card1
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\chicken-biryani.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card1 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.button1
+{
+    position: relative;
+    top:275px;
+    left:40px;
+}
+.card3
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\aloo-paratha-gobi-paratha.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+
+}
+.card3 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.card4
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\sambar-rice-sambar.jpg');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card4 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.card5
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\schezwan-noodles-szechwan.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card5 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.card6
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\paneer-curry.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card6 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.card7
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\muttona-biryania.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card7 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+.card8
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\indian-dhal-spicy-curry-bowl_2829-3302.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card8 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+.row-1
+{
+    margin:10px;
+}
+.row-2
+{
+    margin:10px;
+}
+.row-3
+{
+    margin:10px;
+}
+.row-4
+{
+    margin:10px;
+}
+.row-5
+{
+    margin:10px;
+}
+
+.card9
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg');
+    height:450px;
+    width:600px;
+    background-size:cover; 
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card9 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+.card10
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\lemon-rice-with-curry-leaf-peanuts-red-chilly-served-ceramic-bowl-selective-focus_466689-75265.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card10 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+.card11
+{
+    background-image: url('C:\\Users\\Lenovo\\Downloads\\chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.webp');
+    height:450px;
+    width:600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    border-radius: 40px;
+}
+.card11 h4
+{
+    margin: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color:white;
+}
+footer
+{
+    background-color: darkgrey;
+    padding: 10px;
+    width:100%;
+}
+.buttom
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buttom h3
+{
+    font-family: fantasy;
+    color:blueviolet;
+}
